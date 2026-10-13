@@ -1,0 +1,8 @@
+class Main {
+public static void main(String[] args) {
+ int a = 20;
+ int b = 10;
+  String result =(a%3==0&& b%5==0)?"a is divisible by both":"a not divisible by both";
+System.out.print(result);
+    }
+}
