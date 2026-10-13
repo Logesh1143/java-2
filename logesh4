@@ -1,0 +1,7 @@
+class Main {
+public static void main(String[] args) {
+ int a = 20;
+  String result =(a>20)? "a is eligible":"a not eligible";
+System.out.print(result);
+    }
+}
