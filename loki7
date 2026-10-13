@@ -1,0 +1,45 @@
+public class Main {
+    public static void main(String[] args) {
+        String productName = "Laptop";
+        int productID = 101;
+        double price = 45999.99;
+        boolean availability = true;
+
+        System.out.println("***************************");
+        System.out.println("       PRODUCT CARD        ");
+        System.out.println("***************************");
+        System.out.println("Product Name : " + productName);
+        System.out.println("Product ID   : " + productID);
+        System.out.println("Price        : Rs. " + price);
+        System.out.println("Availability : " + availability);
+        System.out.println("***************************");
+    }
+}
+Output
+text
+***************************
+       PRODUCT CARD
+***************************
+Product Name : Laptop
+Product ID   : 101
+Price        : Rs. 45999.99
+Availability : true
+***************************
+Explanation
+String — stores the product name.
+
+int — stores the product ID.
+
+double — stores the product price.
+
+boolean — stores availability (true or false).
+
+System.out.println() — displays each detail on a separate line.
+
+
+ChatGPT is AI and can make mistakes.
+
+
+No file chosenNo file chosenNo file chosen
+
+Chat with ChatGPT
